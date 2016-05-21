@@ -1,28 +1,9 @@
-== README
+Mongoid and Rails Scaffold
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+1. Implement a model and custom type classes mapped to an existing set of document schemas
 
-Things you may want to cover:
+2. Implement relationships of differing cardinality, realization, and direction
 
-* Ruby version
+3. Implement constraints and validations for the data tier
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+4. Implement Web access to the database tier using a MVC thru Rails Scaffold
